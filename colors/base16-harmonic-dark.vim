@@ -27,8 +27,8 @@ let s:gui04        = "aabcce"
 let g:base16_gui04 = "aabcce"
 let s:gui05        = "cbd6e2"
 let g:base16_gui05 = "cbd6e2"
-let s:gui06        = "e5ebf1"
-let g:base16_gui06 = "e5ebf1"
+let s:gui06        = "4e80f7"
+let g:base16_gui06 = "4e80f7"
 let s:gui07        = "f7f9fb"
 let g:base16_gui07 = "f7f9fb"
 let s:gui08        = "bf8b56"
@@ -217,7 +217,7 @@ call <sid>hi("Include",      s:gui0D, "", s:cterm0D, "", "", "")
 call <sid>hi("Keyword",      s:gui0E, "", s:cterm0E, "", "", "")
 call <sid>hi("Label",        s:gui0A, "", s:cterm0A, "", "", "")
 call <sid>hi("Number",       s:gui09, "", s:cterm09, "", "", "")
-call <sid>hi("Operator",     s:guiblue, "", s:cterm05, "", "none", "")
+call <sid>hi("Operator",     s:gui06, "", s:cterm05, "", "none", "")
 call <sid>hi("PreProc",      s:gui0A, "", s:cterm0A, "", "", "")
 call <sid>hi("Repeat",       s:gui0A, "", s:cterm0A, "", "", "")
 call <sid>hi("Special",      s:gui0C, "", s:cterm0C, "", "", "")
